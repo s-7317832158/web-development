@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<head> 
+    <link rel="stylesheet" href="style/style1.css">
+    <title>IPL</title>
+    <style>
+
+* {
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: #ffffff;
+    /* background-image: url(./images/image2.jpg);
+    background-position: right top; */
+    
+}
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+h3 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+
+.para{
+  color:black ;
+  background-color:aliceblue ;
+  color: rgb(34,67,98);
+  text-align: start;
+  font-family: 'Times New Roman', Times, serif;
+  font-size:medium;
+}
+.para2{
+    color:black;
+    background-color:aliceblue;
+    text-align: start;
+     color: rgb(34,67,98);
+     font-family: 'Times New Roman', Times, serif;
+     font-size: medium;
+}
+.center
+{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+h2,h3{
+  color:red;
+  }
+  
+
+
+
+
+    </style>
+    
+</head>
+<body>
+    <h2>Indian Premier League Blog</h2>
+
+    <p class="para" >The Indian Premier League (IPL) has been in existence since 2008. The competition involves Twenty20 (T20) cricket teams from major cities in India. Luckily, the games’ popularity has been growing over the years and enjoys a huge following worldwide.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRaApF7O0aZIIXRBnhBf11BCoxInqYa-VfQ&usqp=CAU" alt="this is an image" width="24%" height="60%" class="center">
+    <p class="para2">The IPL is the most-attended cricket league in the world and in 2014 was ranked sixth by average attendance among all sports leagues.In 2010, the IPL became the first sporting event in the world to be broadcast live on YouTube.The brand value of the IPL in 2019 was ₹475 billion (US$6.7 billion), according to Duff & Phelps. According to BCCI, the 2015 IPL season contributed ₹11.5 billion (US$160 million) to the GDP of the Indian economy.[9] IPL 2020 set a Massive Viewership Record With 31.57 Million Average Impressions and with an overall consumption increase of 23 per cent from 2019 season.
+
+        There have been thirteen seasons of the IPL tournament. The current IPL title holders are the Mumbai Indians, who won the 2020 season.[10] The venue for the 2020 season was moved due to the COVID-19 pandemic and games were played in the United Arab Emirates.
+        </p>
+
+    <h2>Thank You</h2>
+    
+</body>
+</html>
